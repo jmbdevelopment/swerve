@@ -1,7 +1,7 @@
 {
-  "name": "complex-react-app",
+  "name": "swerve-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "social network",
   "main": "test.js",
   "scripts": {
     "dev": "webpack-dev-server",
